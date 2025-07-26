@@ -1,55 +1,63 @@
-echo "# PhonePe Transaction Intelligence
+# 📱 PhonePe Transaction Intelligence
 
-> Professional data analytics platform for PhonePe transaction analysis with interactive dashboards and business intelligence capabilities.
+<div align="center">
 
-## 🎯 Features
-- **Interactive Dashboard**: 6-page Streamlit interface
-- **Advanced Analytics**: SQL-based business intelligence  
-- **Real-time Visualizations**: Plotly charts and graphs
-- **Comprehensive Data**: 9 tables with 10K+ sample records
-- **Professional Design**: Ready for business presentations
+![PhonePe Analytics](https://img.shields.io/badge/PhonePe-Analytics-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🚀 Quick Start
-\`\`\`bash
-# Clone the repository
-git clone https://github.com/Kishoreraj07/phonepe-transaction-intelligence.git
-cd phonepe-transaction-intelligence
+**Professional data analytics platform transforming PhonePe transaction data into actionable business intelligence**
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Initialize database
-python main.py
-
-# Launch dashboard
-streamlit run dashboard/streamlit_app.py
-\`\`\`
-
-## 📊 Dashboard Pages
-- **Overview**: Key metrics and summary charts
-- **Transaction Analysis**: Type-wise breakdowns and trends
-- **Geographic Insights**: State/district-wise analysis
-- **User Analytics**: Device preferences & engagement metrics
-- **Insurance Insights**: Market penetration analysis
-- **Growth Analysis**: YoY trends and forecasting
-
-## 🛠️ Tech Stack
-- **Database**: SQLite with optimized schema
-- **Backend**: Python, Pandas, NumPy
-- **Frontend**: Streamlit with custom styling
-- **Visualization**: Plotly, Matplotlib
-- **Analytics**: Advanced SQL queries
-
-## 📈 Sample Insights
-- **₹7.5+ Billion** in total transaction volume
-- **36 States** with comprehensive coverage
-- **74+ Million** transactions processed
-- **Professional analytics** ready for business decisions
+[🚀 Quick Start](#-quick-start) • [📊 Features](#-features) • [🛠️ Tech Stack](#%EF%B8%8F-tech-stack) • [📈 Demo](#-demo) • [🤝 Contributing](#-contributing)
 
 ---
-**Built by**: Kishore Raj | **Tech**: Python, SQL, Streamlit, Plotly" > README.md
 
-# Add and commit the README
-git add README.md
-git commit -m "Add comprehensive README with project overview and setup instructions"
-git push origin main
+</div>
+
+## 🌟 Project Overview
+
+PhonePe Transaction Intelligence is an enterprise-grade analytics platform that delivers comprehensive insights into digital payment ecosystems. Built with modern data science tools and best practices, it transforms raw transaction data into strategic business intelligence through interactive dashboards and advanced analytics.
+
+### ✨ Key Highlights
+
+- 🏗️ **Enterprise Architecture**: Production-ready modular design with separation of concerns
+- 📊 **Comprehensive Analytics**: 9-table database schema with 10,000+ sample records
+- 🎨 **Interactive Dashboards**: Professional Streamlit interface with 6 specialized analysis pages  
+- 📈 **Real-time Insights**: Dynamic visualizations powered by Plotly and advanced SQL queries
+- 🔒 **Production Ready**: Error handling, optimization, and scalable architecture
+
+---
+
+## 🎯 Features
+
+### 📋 **Core Analytics Modules**
+
+| Module | Description | Key Metrics |
+|--------|-------------|-------------|
+| 📊 **Overview Dashboard** | Executive summary with KPIs | Total volume, growth rates, market coverage |
+| 💳 **Transaction Analysis** | Payment type breakdowns and trends | Volume analysis, type distribution, performance metrics |
+| 🗺️ **Geographic Insights** | Regional performance mapping | State/district analysis, market penetration |
+| 👥 **User Analytics** | Customer behavior and device preferences | Engagement metrics, brand analysis, segmentation |
+| 🛡️ **Insurance Intelligence** | Policy adoption and market analysis | Penetration rates, product performance |
+| 📈 **Growth Analysis** | Trend forecasting and YoY comparisons | Growth trajectories, seasonal patterns |
+
+### 🔧 **Technical Features**
+
+- **Advanced SQL Analytics**: Complex queries with window functions, CTEs, and statistical analysis
+- **Interactive Visualizations**: Plotly-powered charts with hover details and zoom capabilities  
+- **Error Handling**: Comprehensive exception management and user-friendly feedback
+- **Performance Optimization**: Indexed database queries and efficient data processing
+- **Responsive Design**: Mobile-friendly interface with professional styling
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Python 3.8 or higher
+- Git installed on your system
+
+### Installation
+
